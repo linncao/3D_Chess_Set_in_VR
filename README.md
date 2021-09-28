@@ -4,6 +4,7 @@ construct this project in VR environment with 3 scale classes of chessboards usi
 and hope to publish a paper on collected data in early Spring semester. 
 Specifically, my environment is working as a replication of Montello's study in "Scale and multiple psychologies of space" (1993). We will use eyetrackers and body sensors to 
 investigate the difference in behaviors and the variation in performances within different scale classes. 
+
 1. Figural space: in this small, table-top scale environment, we expect players to remain in one position and play the game as normal.
 2. Vista space: in this human-scaled environment, we expect that players might move around, but not significantly, so as to gain more information of the space.
 3. Environmental space: in this larger-than-a-human environment, we expect that players must move around to build up enough information about the board, or else they would not
@@ -12,3 +13,5 @@ be able to make their moves.
 In the last 2 spaces, especially environmental, players' performances are expected to vary greatly. Professional players might tackle the environment in very different ways from
 novice players. Analyzing the data collected from the eyetrackers and body sensors, we might teach novice players to replicate professional players' behaviors, in the hope that
 they might improve their performance as well.
+
+The VR environment can be viewed in the .mp4 file in the directory.
