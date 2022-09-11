@@ -1,5 +1,7 @@
 # 3D Chess Set in VR for Spatial and Geometric Reasoning
 
+https://img.shields.io/github/pipenv/locked/python-version/linncao/3D_Chess_Set_in_VR?label=unity&logo=2019.4.17f1
+
 Using *Unity*, *C#*, and *Blender*, this project was contructed in VR environment with 3 scale classes of chessboards in summer 2021. 
 Specifically, my environment is working as a replication of Montello's study in ["Scale and multiple psychologies of space"](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.559.1351&rep=rep1&type=pdf) (1993). We will use eyetrackers to investigate the difference in behaviors and the variation in performances within different scale classes:
 
