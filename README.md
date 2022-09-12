@@ -1,5 +1,6 @@
 # 3D Chess Set in VR for Spatial and Geometric Reasoning
 
+![commit](https://img.shields.io/github/last-commit/linncao/3D_Chess_Set_in_VR)
 ![contributer](https://img.shields.io/github/contributors/linncao/3D_Chess_Set_in_VR)
 ![open issues](https://img.shields.io/github/issues-raw/linncao/3D_Chess_Set_in_VR)
 ![closed issues](https://img.shields.io/github/issues-closed-raw/linncao/3D_Chess_Set_in_VR)
