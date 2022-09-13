@@ -6,7 +6,7 @@
 ![closed issues](https://img.shields.io/github/issues-closed-raw/linncao/3D_Chess_Set_in_VR)
 ![stars](https://img.shields.io/github/stars/linncao/3D_Chess_Set_in_VR?style=social)
 
-Using *Unity*, *C#*, and *Blender*, this project was contructed in VR environment with 3 scale classes of chessboards in summer 2021. 
+Using *Unity* (version 2019.4.17f1), *C#*, and *Blender*, this project was contructed in VR environment with 3 scale classes of chessboards in summer 2021. 
 Specifically, my environment is working as a replication of Montello's study in ["Scale and multiple psychologies of space"](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.559.1351&rep=rep1&type=pdf) (1993). We will use eyetrackers to investigate the difference in behaviors and the variation in performances within different scale classes:
 
 1. **Figural space:** in this small, table-top scale environment, we expect players to remain in one position and play the game as normal.
